@@ -1,0 +1,30 @@
+body {
+    background: rgb(190, 95, 95);
+    background: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1 {
+    color: green;
+    font-family: sans-serif;
+}
+
+li {
+    font-family: cursive;
+    font-size: 18px;
+}
+
+p {
+    font-family: inherit;
+    font-size: 16px;
+}
+
+/*img {
+    margin-bottom: 25px;
+}*/
+
+.img_Padrao {
+
+    margin-bottom: 30px;
+}
